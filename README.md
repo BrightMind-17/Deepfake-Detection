@@ -17,7 +17,6 @@ deepfake-detection/
 │ ├── ViT_real_classification_results.csv
 │ ├── ViT_fake_classification_results.csv
 │ └── densenet_results.csv
-├── plots/ # Model comparison graphs
 │ └── model_comparison.png
 
 ---
@@ -56,8 +55,9 @@ deepfake-detection/
 
 <!-- Optional placeholder if you add it later -->
 <p align="center">
-  <img src="plots/model_comparison.png" alt="Model Comparison" width="600"/>
+  <img src="model_comparison.png" alt="Model Comparison" width="600"/>
 </p>
+
 
 
 ---
